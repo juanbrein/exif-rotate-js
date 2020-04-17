@@ -11,7 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "exif-js": "^2.3.0"
+    "exif-js": "github:exif-js/exif-js#53b0c7c1951a23d255e37ed0a883462218a71b6f"
   },
   "devDependencies": {
     "@babel/preset-env": "7.9.5",
